@@ -1,6 +1,4 @@
-# Magisk Changelog
-
-### v27.0
+ Magisk Changelv27.0
 
 - [Zygisk] Introduce new code injection mechanism
 - [Zygisk] Support new signature introduced in U QPR2
